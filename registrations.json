@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "first_name": "sehul",
+        "last_name": "patel",
+        "sport": "Football",
+        "department": "Information Technology (IT)",
+        "enrollment_number": "210130116041",
+        "registered_at": "2026-02-07 15:43:27"
+    },
+    {
+        "id": 2,
+        "first_name": "rishabh",
+        "last_name": "tiwari",
+        "sport": "Cricket",
+        "department": "Electrical Engineering (ECE)",
+        "enrollment_number": "220130116041",
+        "registered_at": "2026-02-07 15:45:53"
+    },
+    {
+        "id": 3,
+        "first_name": "sehul",
+        "last_name": "patel",
+        "sport": "Football",
+        "department": "Civil Engineering (CVE)",
+        "enrollment_number": "210140116041",
+        "registered_at": "2026-02-07 16:02:23"
+    },
+    {
+        "id": 4,
+        "first_name": "sehul",
+        "last_name": "patel",
+        "sport": "Football",
+        "department": "Civil Engineering (CVE)",
+        "enrollment_number": "210140116040",
+        "registered_at": "2026-02-07 16:03:23"
+    },
+    {
+        "id": 5,
+        "first_name": "prithvi",
+        "last_name": "jariwala",
+        "sport": "Volleyball",
+        "department": "Electronics & Communication (EC)",
+        "enrollment_number": "230130116057",
+        "registered_at": "2026-02-07 16:17:16"
+    }
+]
