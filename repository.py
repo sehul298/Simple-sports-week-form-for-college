@@ -54,13 +54,3 @@ class RegistrationRepository:
     def count(self):
         """Get total count of registrations"""
         return len(self.load_all())
-    
-    def get_by_sport(self, sport):
-        """Get all registrations for a specific sport"""
-        registrations = self.load_all()
-        return [reg for reg in registrations if reg.get('sport') == sport]
-    
-    def get_by_department(self, department):
-        """Get all registrations for a specific department"""
-        registrations = self.load_all()
-        return [reg for reg in registrations if reg.get('department') == department]
